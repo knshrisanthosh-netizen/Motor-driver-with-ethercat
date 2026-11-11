@@ -4,7 +4,14 @@
 A custom three-phase motor controller based on the **STM32G474**, **DRV8353** gate driver, and **LAN9252 EtherCAT Slave Controller**.
 
 The hardware integrates a three-phase MOSFET inverter, current sensing, magnetic encoder feedback, temperature monitoring, CAN communication, USB, and EtherCAT connectivity.
+## Sponsors
 
+Motor-drive is  sponsored by:
+
+- Eased
+- Oshlaw
+
+Special thanks to our sponsors for supporting this project.
 ## Hardware Features
 
 - STM32G474VET3 microcontroller
